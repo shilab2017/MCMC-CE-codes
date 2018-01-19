@@ -1,4 +1,4 @@
-# MCMC-CE-codes
+# MCMC-CE algorithm for calculating small p-values
 This repository contains R programs that implement the MCMC-CE algorithm for the calculation small p-values and generate the results in our paper for introducing the algorithm titled "Accurate and Efficient Calculation of Small P-Values with the Cross-Entropy Method: Applications in Genomic Data Analysis" by Shi et al (2018+). For utilization and distribution of the programs, please contact shiyang@scu.edu.cn.
 
 The "R_programs.zip" file contains all the programs. After unzip the file, there are 5 folders:
