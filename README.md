@@ -1,5 +1,5 @@
 # MCMC-CE algorithm for calculating small p-values
-This repository contains R programs that implement the MCMC-CE algorithm for the calculation of small p-values and generate the results in our paper for introducing the algorithm titled "Accurate and Efficient Calculation of Small P-Values with the Cross-Entropy Method: Applications in Genomic Data Analysis" by Shi et al (2018+). For utilization and distribution of the codes, please contact shiyang@scu.edu.cn.
+This repository contains R programs that implement the MCMC-CE algorithm for the calculation of small p-values and generate the results in our paper for introducing the algorithm titled "Accurate and Efficient Calculation of Small P-Values with the Cross-Entropy Method: Applications in Genomic Data Analysis" by Shi et al (2018+). Supplementary tables of the manuscript are also provided. For utilization and distribution of the codes, please contact shiyang@scu.edu.cn.
 
 The "R_programs.zip" file contains all the programs. After unzip the file, there are 5 folders:
 1. The "simulation1_quadratic_function_of_MVN" folder contains R programs generating the simulation results based on the chi-squared distribution reported in the paper.
@@ -9,3 +9,5 @@ The "R_programs.zip" file contains all the programs. After unzip the file, there
 5. The "Example3" folder contains R programs for generating the results of "Example 3: Ratio statistic in differential gene expression analysis" reported in the paper. The leukemia gene expression data is available from the bioconductor R package golubEstes: http://bioconductor.org/packages/release/data/experiment/html/golubEsets.html
 
 The programs were run and tested with R version 3.4.2 on Intel Xeon CPU E5-2640/2.6 GHZ with Scientific Linux operating system.
+
+The "Supplementary_Tables.zip" file contains the supplementary tables of the manuscript.
